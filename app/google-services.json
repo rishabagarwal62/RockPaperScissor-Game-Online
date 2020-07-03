@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "186459814756",
+    "firebase_url": "https://rockpaperscissor-bee16.firebaseio.com",
+    "project_id": "rockpaperscissor-bee16",
+    "storage_bucket": "rockpaperscissor-bee16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186459814756:android:a42d2e7fd1dbb158961871",
+        "android_client_info": {
+          "package_name": "com.example.rockpaperscissor_game_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186459814756-hlfpjlcn6711ovr5vg9a6mes7s663i9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1lE44K0LXQZyF7pKD-cXL13CdTfNBaK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186459814756-hlfpjlcn6711ovr5vg9a6mes7s663i9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
